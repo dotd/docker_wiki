@@ -1,5 +1,5 @@
-Get list of all docker images:
+Get list of all docker images that run:
 ```
-docker ls
+docker ps 
 ```
 
