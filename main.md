@@ -12,3 +12,4 @@ Run (for example) the ubuntu image
 ```
 docker run -it ubuntu
 ```
+
