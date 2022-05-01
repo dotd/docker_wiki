@@ -13,6 +13,6 @@ docker run -it python-docker bash
 
 Inside the interactive mode we can do:
 ```buildoutcfg
-docker run -it python-docker bash
+ docker run -it python-docker bash
 ```
 
