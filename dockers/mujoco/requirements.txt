@@ -1,0 +1,5 @@
+numpy
+mujoco
+gym
+glfw
+
