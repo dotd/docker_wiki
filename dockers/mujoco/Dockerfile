@@ -15,8 +15,10 @@ RUN pip3 install -r requirements.txt
 
 # COPY . .
 COPY minimal_example.py .
+COPY cube.stl .
 
-CMD ["python3"]
+CMD ["python3","minimal_example.py"]
+
 
 # The build command:
 # docker build --tag python-docker .
