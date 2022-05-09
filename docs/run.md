@@ -9,6 +9,9 @@ docker container run -d [docker_image]
 Running in **interactive** mode:
 ```
 docker container run -it [docker_image] /bin/bash
+# Detaching (Exiting) interactive mode CTRL+p && CTRL+q
+# Attaching (Exiting) interactive mode 
+# docker attach [container]
 ```
 
 ## checking Dockers
