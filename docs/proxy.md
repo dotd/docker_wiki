@@ -1,3 +1,5 @@
+# Windows Docker Configuration Behind Bosch Firewall
+
 Taken from https://inside-docupedia.bosch.com/confluence/pages/viewpage.action?pageId=2055829490
 
 Update Docker Desktop Settings
@@ -27,3 +29,5 @@ Open your `````~/.docker/config.json````` and change the proxy settings here as 
   "stackOrchestrator": "swarm"
 }
 ```
+
+# Ubuntu Docker Configuration Behind Bosch Firewall 
